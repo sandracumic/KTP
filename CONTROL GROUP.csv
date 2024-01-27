@@ -1,0 +1,102 @@
+﻿ID,IV_MAIN_Variable,Politeness_perception,Happiness_PostRequest,age,gender,pol1,job,edu,ethni
+1,Control group (no donation request),3.954545455,3.454545455,27,Female,Strong Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+3,Control group (no donation request),4.227272727,2.454545455,59,Male,Moderate Democrat,Unemployed,2-year College Degree,White/Caucasian
+6,Control group (no donation request),3.818181818,2.727272727,33,Female,Moderate Democrat,Unemployed,Master's Degree,White/Caucasian
+7,Control group (no donation request),2.454545455,3.272727273,34,Male,Independent,Service occupations,4-year College Degree,White/Caucasian
+8,Control group (no donation request),3.136363636,2.909090909,46,Female,Moderate Democrat,Other,4-year College Degree,African American
+9,Control group (no donation request),2.590909091,2.909090909,32,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,African American
+11,Control group (no donation request),2.272727273,4,40,Male,Strong Republican,"Management, professional, and related occupations",High School / GED,White/Caucasian
+12,Control group (no donation request),3.181818182,2.545454545,31,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+13,Control group (no donation request),4.454545455,3.636363636,32,Female,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+14,Control group (no donation request),3.772727273,3.636363636,42,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+15,Control group (no donation request),2.818181818,2.818181818,28,Male,Independent,Sales and office occupations,High School / GED,African American
+17,Control group (no donation request),3.454545455,4.090909091,37,Female,Moderate Republican,Sales and office occupations,4-year College Degree,White/Caucasian
+18,Control group (no donation request),3.818181818,3.636363636,42,Female,Moderate Democrat,Government occupations,4-year College Degree,White/Caucasian
+19,Control group (no donation request),2.954545455,2.818181818,30,Male,Moderate Republican,"Farming, fishing, and forestry",4-year College Degree,White/Caucasian
+20,Control group (no donation request),2.5,3.818181818,33,Female,Moderate Democrat,Unemployed,4-year College Degree,White/Caucasian
+21,Control group (no donation request),2.5,2.272727273,29,Female,Moderate Democrat,Service occupations,4-year College Degree,White/Caucasian
+22,Control group (no donation request),3.318181818,2.909090909,45,Female,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+24,Control group (no donation request),2.863636364,2.909090909,22,Female,Strong Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+25,Control group (no donation request),3.454545455,3.727272727,29,Male,Moderate Republican,Sales and office occupations,2-year College Degree,White/Caucasian
+26,Control group (no donation request),3.545454545,2.454545455,44,Female,Moderate Republican,Unemployed,Master's Degree,White/Caucasian
+27,Control group (no donation request),3.090909091,2.636363636,28,Female,Moderate Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+30,Control group (no donation request),2.772727273,3.363636364,51,Male,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+32,Control group (no donation request),3.954545455,2.636363636,32,Female,Independent,Other,4-year College Degree,African American
+33,Control group (no donation request),2.772727273,4.090909091,55,Female,Independent,Service occupations,2-year College Degree,White/Caucasian
+34,Control group (no donation request),3.272727273,1.909090909,29,Male,Independent,Sales and office occupations,High School / GED,White/Caucasian
+36,Control group (no donation request),2.636363636,2.454545455,64,Female,Moderate Republican,Service occupations,2-year College Degree,White/Caucasian
+37,Control group (no donation request),3.818181818,4,34,Female,Strong Democrat,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+38,Control group (no donation request),2.454545455,1.545454545,21,Female,Strong Democrat,"Management, professional, and related occupations",High School / GED,African American
+40,Control group (no donation request),3.772727273,3.272727273,36,Male,Strong Democrat,Service occupations,High School / GED,White/Caucasian
+41,Control group (no donation request),2.681818182,2.727272727,31,Male,Independent,"Construction, extraction, and maintenance occupations",High School / GED,White/Caucasian
+45,Control group (no donation request),2.636363636,1.181818182,33,Female,Independent,Other,High School / GED,White/Caucasian
+47,Control group (no donation request),3.590909091,2.909090909,48,Female,Independent,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+49,Control group (no donation request),3.545454545,3.272727273,65,Male,Moderate Republican,"Farming, fishing, and forestry",High School / GED,White/Caucasian
+53,Control group (no donation request),3.454545455,3.272727273,49,Male,Strong Democrat,Retired,4-year College Degree,White/Caucasian
+55,Control group (no donation request),2.363636364,4.181818182,31,Female,Independent,Government occupations,4-year College Degree,White/Caucasian
+56,Control group (no donation request),3.636363636,3,47,Male,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+57,Control group (no donation request),2.318181818,4.363636364,36,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+58,Control group (no donation request),3.818181818,3.090909091,61,Male,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+59,Control group (no donation request),2.681818182,3.636363636,30,Male,Other,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+62,Control group (no donation request),3.636363636,2.090909091,30,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,African American
+63,Control group (no donation request),3.272727273,3.363636364,30,Male,Moderate Democrat,Service occupations,4-year College Degree,Asian
+64,Control group (no donation request),3.681818182,4.636363636,50,Female,Moderate Democrat,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+65,Control group (no donation request),2.954545455,3.454545455,27,Male,Strong Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+67,Control group (no donation request),3.227272727,3.909090909,47,Male,Other,"Construction, extraction, and maintenance occupations",2-year College Degree,Other
+68,Control group (no donation request),2.454545455,2.636363636,35,Female,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+69,Control group (no donation request),2.5,2.363636364,24,Female,Strong Democrat,Unemployed,4-year College Degree,Asian
+71,Control group (no donation request),2.227272727,3.272727273,51,Prefer not to say,Independent,Other,4-year College Degree,White/Caucasian
+72,Control group (no donation request),3.727272727,3.909090909,51,Male,Strong Republican,Unemployed,High School / GED,White/Caucasian
+73,Control group (no donation request),3.681818182,3,69,Female,Independent,Sales and office occupations,"Professional Degree (JD, MD)",White/Caucasian
+75,Control group (no donation request),3.727272727,4.545454545,67,Female,Strong Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+76,Control group (no donation request),2.636363636,4.090909091,64,Female,Moderate Republican,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+78,Control group (no donation request),2.681818182,3.818181818,39,Male,Strong Republican,Service occupations,High School / GED,White/Caucasian
+79,Control group (no donation request),3.681818182,2.181818182,45,Female,Strong Democrat,Service occupations,4-year College Degree,White/Caucasian
+81,Control group (no donation request),4.363636364,3,33,Male,Independent,Service occupations,High School / GED,African American
+82,Control group (no donation request),3.318181818,4.363636364,63,Female,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+83,Control group (no donation request),3.272727273,4,34,Male,Independent,"Management, professional, and related occupations",Doctoral Degree,White/Caucasian
+84,Control group (no donation request),2.727272727,2,24,Male,Independent,Unemployed,4-year College Degree,White/Caucasian
+85,Control group (no donation request),3.045454545,3,38,Female,Independent,Service occupations,2-year College Degree,African American
+86,Control group (no donation request),2.954545455,3.272727273,29,Male,Moderate Democrat,Other,2-year College Degree,White/Caucasian
+88,Control group (no donation request),3.681818182,2.727272727,42,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+89,Control group (no donation request),2.909090909,2.272727273,33,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+90,Control group (no donation request),3.681818182,4.454545455,37,Male,Strong Democrat,"Management, professional, and related occupations",High School / GED,White/Caucasian
+100,Control group (no donation request),3.409090909,3,59,Female,Moderate Democrat,Retired,High School / GED,White/Caucasian
+101,Control group (no donation request),3.227272727,3.727272727,30,Female,Strong Republican,Unemployed,2-year College Degree,White/Caucasian
+103,Control group (no donation request),3.727272727,2.272727273,31,Female,Strong Democrat,Unemployed,4-year College Degree,White/Caucasian
+104,Control group (no donation request),3.681818182,2.818181818,32,Male,Strong Democrat,Government occupations,Master's Degree,White/Caucasian
+105,Control group (no donation request),2.5,1.545454545,36,Female,Independent,Unemployed,4-year College Degree,Asian
+106,Control group (no donation request),3.181818182,2.545454545,36,Female,Moderate Democrat,Service occupations,"Professional Degree (JD, MD)",Asian
+109,Control group (no donation request),2.409090909,2,69,Male,Moderate Republican,Retired,2-year College Degree,Hispanic
+110,Control group (no donation request),2.545454545,1.818181818,38,Female,Independent,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+113,Control group (no donation request),2.545454545,2.090909091,29,Female,Strong Democrat,Student,Master's Degree,White/Caucasian
+115,Control group (no donation request),3.681818182,2.909090909,43,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+116,Control group (no donation request),2.727272727,2.363636364,38,Female,Independent,Sales and office occupations,High School / GED,White/Caucasian
+117,Control group (no donation request),3,3.363636364,33,Male,Moderate Republican,Service occupations,4-year College Degree,White/Caucasian
+118,Control group (no donation request),2.454545455,2.272727273,31,Male,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+119,Control group (no donation request),3.772727273,3,54,Male,Independent,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+121,Control group (no donation request),3.409090909,3.545454545,61,Male,Independent,Other,4-year College Degree,White/Caucasian
+122,Control group (no donation request),3.409090909,3.363636364,62,Female,Strong Democrat,Retired,High School / GED,African American
+123,Control group (no donation request),3.454545455,3.545454545,58,Female,Moderate Democrat,Retired,Master's Degree,White/Caucasian
+124,Control group (no donation request),4.136363636,4.636363636,35,Female,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+125,Control group (no donation request),3.636363636,2.727272727,35,Female,Moderate Democrat,Unemployed,High School / GED,White/Caucasian
+127,Control group (no donation request),2.909090909,3.363636364,28,Female,Strong Democrat,Service occupations,High School / GED,White/Caucasian
+129,Control group (no donation request),3.909090909,3.545454545,29,Male,Independent,"Farming, fishing, and forestry",High School / GED,White/Caucasian
+130,Control group (no donation request),2.318181818,2.818181818,32,Female,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+131,Control group (no donation request),2.727272727,3.818181818,58,Female,Strong Democrat,Sales and office occupations,High School / GED,White/Caucasian
+132,Control group (no donation request),3.045454545,2.818181818,39,Male,Moderate Democrat,Government occupations,Master's Degree,Asian
+135,Control group (no donation request),3.136363636,1.909090909,42,Male,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+136,Control group (no donation request),3.590909091,4.636363636,46,Male,Strong Democrat,"Construction, extraction, and maintenance occupations",4-year College Degree,African American
+138,Control group (no donation request),2.545454545,1.363636364,58,Female,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+143,Control group (no donation request),3.181818182,3.454545455,35,Female,Strong Democrat,Sales and office occupations,High School / GED,White/Caucasian
+147,Control group (no donation request),2.909090909,2.909090909,32,Female,Moderate Republican,Other,4-year College Degree,White/Caucasian
+148,Control group (no donation request),2.818181818,4.272727273,28,Male,Other,Other,4-year College Degree,African American
+149,Control group (no donation request),3.227272727,3.363636364,34,Male,Moderate Republican,Service occupations,High School / GED,White/Caucasian
+150,Control group (no donation request),3.590909091,4.090909091,26,Male,Strong Democrat,Service occupations,4-year College Degree,Asian
+151,Control group (no donation request),3.272727273,2.909090909,36,Female,Strong Democrat,Other,4-year College Degree,African American
+152,Control group (no donation request),3.409090909,4,51,Female,Strong Republican,Other,2-year College Degree,White/Caucasian
+153,Control group (no donation request),3.181818182,3.363636364,58,Male,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+154,Control group (no donation request),3.363636364,2.363636364,24,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+155,Control group (no donation request),3.954545455,3.909090909,33,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+156,Control group (no donation request),3.772727273,3.636363636,40,Male,Strong Democrat,"Management, professional, and related occupations",Less than High School,White/Caucasian
+159,Control group (no donation request),3.954545455,3.636363636,27,Female,Other,"Management, professional, and related occupations",High School / GED,White/Caucasian
