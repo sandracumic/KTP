@@ -1,0 +1,284 @@
+﻿ID,IV_MAIN_Variable,Politeness_perception,Happiness_PostRequest,age,gender,pol1,job,edu,ethni
+1,Control group (no donation request),3.95454545454545,3.45454545454545,27,Female,Strong Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+3,Control group (no donation request),4.22727272727273,2.45454545454545,59,Male,Moderate Democrat,Unemployed,2-year College Degree,White/Caucasian
+6,Control group (no donation request),3.81818181818182,2.72727272727273,33,Female,Moderate Democrat,Unemployed,Master's Degree,White/Caucasian
+7,Control group (no donation request),2.45454545454545,3.27272727272727,34,Male,Independent,Service occupations,4-year College Degree,White/Caucasian
+8,Control group (no donation request),3.13636363636364,2.90909090909091,46,Female,Moderate Democrat,Other,4-year College Degree,African American
+9,Control group (no donation request),2.59090909090909,2.90909090909091,32,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,African American
+11,Control group (no donation request),2.27272727272727,4,40,Male,Strong Republican,"Management, professional, and related occupations",High School / GED,White/Caucasian
+12,Control group (no donation request),3.18181818181818,2.54545454545455,31,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+13,Control group (no donation request),4.45454545454545,3.63636363636364,32,Female,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+14,Control group (no donation request),3.77272727272727,3.63636363636364,42,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+15,Control group (no donation request),2.81818181818182,2.81818181818182,28,Male,Independent,Sales and office occupations,High School / GED,African American
+17,Control group (no donation request),3.45454545454545,4.09090909090909,37,Female,Moderate Republican,Sales and office occupations,4-year College Degree,White/Caucasian
+18,Control group (no donation request),3.81818181818182,3.63636363636364,42,Female,Moderate Democrat,Government occupations,4-year College Degree,White/Caucasian
+19,Control group (no donation request),2.95454545454545,2.81818181818182,30,Male,Moderate Republican,"Farming, fishing, and forestry",4-year College Degree,White/Caucasian
+20,Control group (no donation request),2.5,3.81818181818182,33,Female,Moderate Democrat,Unemployed,4-year College Degree,White/Caucasian
+21,Control group (no donation request),2.5,2.27272727272727,29,Female,Moderate Democrat,Service occupations,4-year College Degree,White/Caucasian
+22,Control group (no donation request),3.31818181818182,2.90909090909091,45,Female,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+24,Control group (no donation request),2.86363636363636,2.90909090909091,22,Female,Strong Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+25,Control group (no donation request),3.45454545454545,3.72727272727273,29,Male,Moderate Republican,Sales and office occupations,2-year College Degree,White/Caucasian
+26,Control group (no donation request),3.54545454545455,2.45454545454545,44,Female,Moderate Republican,Unemployed,Master's Degree,White/Caucasian
+27,Control group (no donation request),3.09090909090909,2.63636363636364,28,Female,Moderate Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+30,Control group (no donation request),2.77272727272727,3.36363636363636,51,Male,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+32,Control group (no donation request),3.95454545454545,2.63636363636364,32,Female,Independent,Other,4-year College Degree,African American
+33,Control group (no donation request),2.77272727272727,4.09090909090909,55,Female,Independent,Service occupations,2-year College Degree,White/Caucasian
+34,Control group (no donation request),3.27272727272727,1.90909090909091,29,Male,Independent,Sales and office occupations,High School / GED,White/Caucasian
+36,Control group (no donation request),2.63636363636364,2.45454545454545,64,Female,Moderate Republican,Service occupations,2-year College Degree,White/Caucasian
+37,Control group (no donation request),3.81818181818182,4,34,Female,Strong Democrat,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+38,Control group (no donation request),2.45454545454545,1.54545454545455,21,Female,Strong Democrat,"Management, professional, and related occupations",High School / GED,African American
+40,Control group (no donation request),3.77272727272727,3.27272727272727,36,Male,Strong Democrat,Service occupations,High School / GED,White/Caucasian
+41,Control group (no donation request),2.68181818181818,2.72727272727273,31,Male,Independent,"Construction, extraction, and maintenance occupations",High School / GED,White/Caucasian
+45,Control group (no donation request),2.63636363636364,1.18181818181818,33,Female,Independent,Other,High School / GED,White/Caucasian
+47,Control group (no donation request),3.59090909090909,2.90909090909091,48,Female,Independent,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+49,Control group (no donation request),3.54545454545455,3.27272727272727,65,Male,Moderate Republican,"Farming, fishing, and forestry",High School / GED,White/Caucasian
+53,Control group (no donation request),3.45454545454545,3.27272727272727,49,Male,Strong Democrat,Retired,4-year College Degree,White/Caucasian
+55,Control group (no donation request),2.36363636363636,4.18181818181818,31,Female,Independent,Government occupations,4-year College Degree,White/Caucasian
+56,Control group (no donation request),3.63636363636364,3,47,Male,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+57,Control group (no donation request),2.31818181818182,4.36363636363636,36,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+58,Control group (no donation request),3.81818181818182,3.09090909090909,61,Male,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+59,Control group (no donation request),2.68181818181818,3.63636363636364,30,Male,Other,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+62,Control group (no donation request),3.63636363636364,2.09090909090909,30,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,African American
+63,Control group (no donation request),3.27272727272727,3.36363636363636,30,Male,Moderate Democrat,Service occupations,4-year College Degree,Asian
+64,Control group (no donation request),3.68181818181818,4.63636363636364,50,Female,Moderate Democrat,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+65,Control group (no donation request),2.95454545454545,3.45454545454545,27,Male,Strong Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+67,Control group (no donation request),3.22727272727273,3.90909090909091,47,Male,Other,"Construction, extraction, and maintenance occupations",2-year College Degree,Other
+68,Control group (no donation request),2.45454545454545,2.63636363636364,35,Female,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+69,Control group (no donation request),2.5,2.36363636363636,24,Female,Strong Democrat,Unemployed,4-year College Degree,Asian
+71,Control group (no donation request),2.22727272727273,3.27272727272727,51,Prefer not to say,Independent,Other,4-year College Degree,White/Caucasian
+72,Control group (no donation request),3.72727272727273,3.90909090909091,51,Male,Strong Republican,Unemployed,High School / GED,White/Caucasian
+73,Control group (no donation request),3.68181818181818,3,69,Female,Independent,Sales and office occupations,"Professional Degree (JD, MD)",White/Caucasian
+75,Control group (no donation request),3.72727272727273,4.54545454545455,67,Female,Strong Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+76,Control group (no donation request),2.63636363636364,4.09090909090909,64,Female,Moderate Republican,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+78,Control group (no donation request),2.68181818181818,3.81818181818182,39,Male,Strong Republican,Service occupations,High School / GED,White/Caucasian
+79,Control group (no donation request),3.68181818181818,2.18181818181818,45,Female,Strong Democrat,Service occupations,4-year College Degree,White/Caucasian
+81,Control group (no donation request),4.36363636363636,3,33,Male,Independent,Service occupations,High School / GED,African American
+82,Control group (no donation request),3.31818181818182,4.36363636363636,63,Female,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+83,Control group (no donation request),3.27272727272727,4,34,Male,Independent,"Management, professional, and related occupations",Doctoral Degree,White/Caucasian
+84,Control group (no donation request),2.72727272727273,2,24,Male,Independent,Unemployed,4-year College Degree,White/Caucasian
+85,Control group (no donation request),3.04545454545455,3,38,Female,Independent,Service occupations,2-year College Degree,African American
+86,Control group (no donation request),2.95454545454545,3.27272727272727,29,Male,Moderate Democrat,Other,2-year College Degree,White/Caucasian
+88,Control group (no donation request),3.68181818181818,2.72727272727273,42,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+89,Control group (no donation request),2.90909090909091,2.27272727272727,33,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+90,Control group (no donation request),3.68181818181818,4.45454545454545,37,Male,Strong Democrat,"Management, professional, and related occupations",High School / GED,White/Caucasian
+100,Control group (no donation request),3.40909090909091,3,59,Female,Moderate Democrat,Retired,High School / GED,White/Caucasian
+101,Control group (no donation request),3.22727272727273,3.72727272727273,30,Female,Strong Republican,Unemployed,2-year College Degree,White/Caucasian
+103,Control group (no donation request),3.72727272727273,2.27272727272727,31,Female,Strong Democrat,Unemployed,4-year College Degree,White/Caucasian
+104,Control group (no donation request),3.68181818181818,2.81818181818182,32,Male,Strong Democrat,Government occupations,Master's Degree,White/Caucasian
+105,Control group (no donation request),2.5,1.54545454545455,36,Female,Independent,Unemployed,4-year College Degree,Asian
+106,Control group (no donation request),3.18181818181818,2.54545454545455,36,Female,Moderate Democrat,Service occupations,"Professional Degree (JD, MD)",Asian
+109,Control group (no donation request),2.40909090909091,2,69,Male,Moderate Republican,Retired,2-year College Degree,Hispanic
+110,Control group (no donation request),2.54545454545455,1.81818181818182,38,Female,Independent,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+113,Control group (no donation request),2.54545454545455,2.09090909090909,29,Female,Strong Democrat,Student,Master's Degree,White/Caucasian
+115,Control group (no donation request),3.68181818181818,2.90909090909091,43,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+116,Control group (no donation request),2.72727272727273,2.36363636363636,38,Female,Independent,Sales and office occupations,High School / GED,White/Caucasian
+117,Control group (no donation request),3,3.36363636363636,33,Male,Moderate Republican,Service occupations,4-year College Degree,White/Caucasian
+118,Control group (no donation request),2.45454545454545,2.27272727272727,31,Male,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+119,Control group (no donation request),3.77272727272727,3,54,Male,Independent,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+121,Control group (no donation request),3.40909090909091,3.54545454545455,61,Male,Independent,Other,4-year College Degree,White/Caucasian
+122,Control group (no donation request),3.40909090909091,3.36363636363636,62,Female,Strong Democrat,Retired,High School / GED,African American
+123,Control group (no donation request),3.45454545454545,3.54545454545455,58,Female,Moderate Democrat,Retired,Master's Degree,White/Caucasian
+124,Control group (no donation request),4.13636363636364,4.63636363636364,35,Female,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+125,Control group (no donation request),3.63636363636364,2.72727272727273,35,Female,Moderate Democrat,Unemployed,High School / GED,White/Caucasian
+127,Control group (no donation request),2.90909090909091,3.36363636363636,28,Female,Strong Democrat,Service occupations,High School / GED,White/Caucasian
+129,Control group (no donation request),3.90909090909091,3.54545454545455,29,Male,Independent,"Farming, fishing, and forestry",High School / GED,White/Caucasian
+130,Control group (no donation request),2.31818181818182,2.81818181818182,32,Female,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+131,Control group (no donation request),2.72727272727273,3.81818181818182,58,Female,Strong Democrat,Sales and office occupations,High School / GED,White/Caucasian
+132,Control group (no donation request),3.04545454545455,2.81818181818182,39,Male,Moderate Democrat,Government occupations,Master's Degree,Asian
+135,Control group (no donation request),3.13636363636364,1.90909090909091,42,Male,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+136,Control group (no donation request),3.59090909090909,4.63636363636364,46,Male,Strong Democrat,"Construction, extraction, and maintenance occupations",4-year College Degree,African American
+138,Control group (no donation request),2.54545454545455,1.36363636363636,58,Female,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+143,Control group (no donation request),3.18181818181818,3.45454545454545,35,Female,Strong Democrat,Sales and office occupations,High School / GED,White/Caucasian
+147,Control group (no donation request),2.90909090909091,2.90909090909091,32,Female,Moderate Republican,Other,4-year College Degree,White/Caucasian
+148,Control group (no donation request),2.81818181818182,4.27272727272727,28,Male,Other,Other,4-year College Degree,African American
+149,Control group (no donation request),3.22727272727273,3.36363636363636,34,Male,Moderate Republican,Service occupations,High School / GED,White/Caucasian
+150,Control group (no donation request),3.59090909090909,4.09090909090909,26,Male,Strong Democrat,Service occupations,4-year College Degree,Asian
+151,Control group (no donation request),3.27272727272727,2.90909090909091,36,Female,Strong Democrat,Other,4-year College Degree,African American
+152,Control group (no donation request),3.40909090909091,4,51,Female,Strong Republican,Other,2-year College Degree,White/Caucasian
+153,Control group (no donation request),3.18181818181818,3.36363636363636,58,Male,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+154,Control group (no donation request),3.36363636363636,2.36363636363636,24,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+155,Control group (no donation request),3.95454545454545,3.90909090909091,33,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+156,Control group (no donation request),3.77272727272727,3.63636363636364,40,Male,Strong Democrat,"Management, professional, and related occupations",Less than High School,White/Caucasian
+159,Control group (no donation request),3.95454545454545,3.63636363636364,27,Female,Other,"Management, professional, and related occupations",High School / GED,White/Caucasian
+167,Experimental group: asked to donate but refused in T2,3.13636363636364,5,24,Male,Strong Democrat,"Production, transportation, and material moving occupations",High School / GED,African American
+168,Experimental group: asked to donate but refused in T2,3.13636363636364,2.27272727272727,29,Female,Moderate Republican,Sales and office occupations,4-year College Degree,White/Caucasian
+170,Experimental group: asked to donate but refused in T2,3.63636363636364,1.54545454545455,22,Female,Moderate Democrat,Unemployed,High School / GED,White/Caucasian
+175,Experimental group: asked to donate and accepted in T2,4,2.45454545454545,39,Male,Strong Democrat,Other,High School / GED,White/Caucasian
+177,Experimental group: asked to donate but refused in T2,3.13636363636364,3.45454545454545,46,Female,Independent,Other,High School / GED,White/Caucasian
+178,Experimental group: asked to donate but refused in T2,2.90909090909091,1.90909090909091,29,Male,Independent,Unemployed,High School / GED,White/Caucasian
+180,Experimental group: asked to donate and accepted in T2,3.81818181818182,3.81818181818182,47,Female,Strong Republican,Sales and office occupations,High School / GED,White/Caucasian
+181,Experimental group: asked to donate and accepted in T2,3.5,3.36363636363636,28,Male,Moderate Republican,"Farming, fishing, and forestry",Master's Degree,African American
+185,Experimental group: asked to donate but refused in T2,2.95454545454545,2.45454545454545,33,Male,Independent,"Management, professional, and related occupations","Professional Degree (JD, MD)",White/Caucasian
+187,Experimental group: asked to donate but refused in T2,3.86363636363636,1.54545454545455,22,Female,Moderate Democrat,Other,4-year College Degree,Hispanic
+188,Experimental group: asked to donate and accepted in T2,4.31818181818182,3.54545454545455,33,Male,Moderate Democrat,Other,High School / GED,African American
+190,Experimental group: asked to donate and accepted in T2,3.86363636363636,3.72727272727273,63,Female,Strong Democrat,Service occupations,High School / GED,White/Caucasian
+198,Experimental group: asked to donate but refused in T2,3.5,2.36363636363636,41,Male,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,Hispanic
+203,Experimental group: asked to donate but refused in T2,2.54545454545455,3.63636363636364,38,Female,Moderate Democrat,Service occupations,2-year College Degree,White/Caucasian
+204,Experimental group: asked to donate and accepted in T2,3.09090909090909,2.54545454545455,54,Male,Independent,Service occupations,Master's Degree,White/Caucasian
+210,Experimental group: asked to donate but refused in T2,3.36363636363636,2.27272727272727,32,Male,Strong Democrat,Service occupations,High School / GED,White/Caucasian
+211,Experimental group: asked to donate but refused in T2,2.31818181818182,1.81818181818182,27,Female,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+213,Experimental group: asked to donate but refused in T2,3.40909090909091,3.63636363636364,45,Male,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+214,Experimental group: asked to donate but refused in T2,2.90909090909091,3.36363636363636,30,Male,Strong Democrat,"Management, professional, and related occupations",Doctoral Degree,White/Caucasian
+215,Experimental group: asked to donate but refused in T2,2.36363636363636,3,27,Male,Independent,Government occupations,4-year College Degree,White/Caucasian
+221,Experimental group: asked to donate but refused in T2,3,1,29,Female,Independent,Unemployed,4-year College Degree,White/Caucasian
+222,Experimental group: asked to donate and accepted in T2,4.63636363636364,4.63636363636364,70,Female,Moderate Republican,Retired,High School / GED,White/Caucasian
+225,Experimental group: asked to donate but refused in T2,4.27272727272727,3.45454545454545,57,Female,Independent,Other,High School / GED,White/Caucasian
+226,Experimental group: asked to donate but refused in T2,3.59090909090909,1,42,Female,Strong Democrat,"Management, professional, and related occupations",High School / GED,White/Caucasian
+228,Experimental group: asked to donate and accepted in T2,3.59090909090909,4.54545454545455,45,Female,Moderate Democrat,Sales and office occupations,4-year College Degree,African American
+230,Experimental group: asked to donate and accepted in T2,3.95454545454545,3.36363636363636,55,Female,Moderate Democrat,Other,4-year College Degree,White/Caucasian
+232,Experimental group: asked to donate but refused in T2,3,4,31,Male,Independent,"Management, professional, and related occupations",4-year College Degree,Asian
+233,Experimental group: asked to donate and accepted in T2,3.45454545454545,3.45454545454545,49,Female,Moderate Democrat,"Management, professional, and related occupations",High School / GED,White/Caucasian
+235,Experimental group: asked to donate and accepted in T2,3.04545454545455,2.36363636363636,48,Female,Moderate Republican,Unemployed,High School / GED,White/Caucasian
+238,Experimental group: asked to donate but refused in T2,2.09090909090909,1.36363636363636,47,Female,Strong Republican,Other,Master's Degree,White/Caucasian
+240,Experimental group: asked to donate and accepted in T2,3.54545454545455,3.18181818181818,32,Male,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,Asian
+241,Experimental group: asked to donate but refused in T2,2.59090909090909,4,39,Male,Strong Republican,Sales and office occupations,4-year College Degree,White/Caucasian
+242,Experimental group: asked to donate but refused in T2,2.27272727272727,2.54545454545455,61,Female,Strong Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+244,Experimental group: asked to donate and accepted in T2,3.54545454545455,2.72727272727273,28,Female,Moderate Republican,Sales and office occupations,4-year College Degree,White/Caucasian
+246,Experimental group: asked to donate but refused in T2,2.13636363636364,4,32,Female,Moderate Republican,Unemployed,4-year College Degree,White/Caucasian
+247,Experimental group: asked to donate and accepted in T2,4.18181818181818,2.81818181818182,47,Male,Moderate Democrat,Unemployed,4-year College Degree,White/Caucasian
+249,Experimental group: asked to donate but refused in T2,3.18181818181818,1.63636363636364,47,Male,Strong Republican,Service occupations,4-year College Degree,White/Caucasian
+250,Experimental group: asked to donate but refused in T2,3.18181818181818,2.81818181818182,36,Female,Independent,Unemployed,Master's Degree,White/Caucasian
+252,Experimental group: asked to donate but refused in T2,2.86363636363636,4.63636363636364,31,Female,Moderate Republican,Other,Master's Degree,White/Caucasian
+253,Experimental group: asked to donate and accepted in T2,3.40909090909091,2.18181818181818,42,Female,Independent,Sales and office occupations,High School / GED,White/Caucasian
+255,Experimental group: asked to donate but refused in T2,2.86363636363636,1.72727272727273,20,Female,Moderate Democrat,Student,2-year College Degree,White/Caucasian
+258,Experimental group: asked to donate but refused in T2,3.45454545454545,2.36363636363636,32,Female,Moderate Republican,Unemployed,High School / GED,Asian
+259,Experimental group: asked to donate but refused in T2,4.09090909090909,2.90909090909091,33,Female,Independent,Unemployed,4-year College Degree,White/Caucasian
+261,Experimental group: asked to donate and accepted in T2,4.04545454545455,3.81818181818182,65,Male,Independent,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+263,Experimental group: asked to donate but refused in T2,2.63636363636364,2.36363636363636,29,Female,Moderate Democrat,"Production, transportation, and material moving occupations",2-year College Degree,White/Caucasian
+267,Experimental group: asked to donate but refused in T2,3.22727272727273,2.90909090909091,46,Male,Moderate Democrat,Other,4-year College Degree,African American
+271,Experimental group: asked to donate and accepted in T2,1.86363636363636,2.81818181818182,41,Male,Strong Democrat,Service occupations,4-year College Degree,Asian
+272,Experimental group: asked to donate but refused in T2,3.27272727272727,3.27272727272727,29,Male,Moderate Republican,Government occupations,High School / GED,White/Caucasian
+276,Experimental group: asked to donate and accepted in T2,3.86363636363636,3.45454545454545,34,Female,Independent,Service occupations,2-year College Degree,White/Caucasian
+279,Experimental group: asked to donate and accepted in T2,4.22727272727273,3,34,Female,Other,Other,2-year College Degree,White/Caucasian
+281,Experimental group: asked to donate but refused in T2,2.81818181818182,4.18181818181818,46,Female,Strong Republican,Other,4-year College Degree,White/Caucasian
+282,Experimental group: asked to donate and accepted in T2,3.63636363636364,4,57,Female,Moderate Republican,"Production, transportation, and material moving occupations",2-year College Degree,White/Caucasian
+284,Experimental group: asked to donate but refused in T2,3.86363636363636,3.63636363636364,28,Male,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+286,Experimental group: asked to donate but refused in T2,2.54545454545455,2,48,Male,Strong Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+287,Experimental group: asked to donate but refused in T2,3,4,46,Male,Moderate Republican,"Construction, extraction, and maintenance occupations",4-year College Degree,White/Caucasian
+288,Experimental group: asked to donate but refused in T2,3.54545454545455,3.72727272727273,49,Male,Moderate Republican,"Management, professional, and related occupations",High School / GED,White/Caucasian
+292,Experimental group: asked to donate but refused in T2,2.77272727272727,3.45454545454545,35,Male,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+293,Experimental group: asked to donate and accepted in T2,4.45454545454545,4.81818181818182,71,Male,Moderate Republican,Retired,2-year College Degree,White/Caucasian
+298,Experimental group: asked to donate but refused in T2,2.22727272727273,3.18181818181818,34,Female,Strong Republican,Unemployed,High School / GED,White/Caucasian
+299,Experimental group: asked to donate and accepted in T2,4.04545454545455,1.81818181818182,39,Female,Independent,Unemployed,4-year College Degree,African American
+302,Experimental group: asked to donate but refused in T2,2.22727272727273,1.81818181818182,43,Female,Independent,Sales and office occupations,4-year College Degree,Asian
+307,Experimental group: asked to donate and accepted in T2,4.36363636363636,3,56,Female,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+309,Experimental group: asked to donate and accepted in T2,4,3.27272727272727,33,Female,Moderate Democrat,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+311,Experimental group: asked to donate and accepted in T2,4.63636363636364,5,42,Female,Independent,Sales and office occupations,High School / GED,Asian
+312,Experimental group: asked to donate and accepted in T2,4.63636363636364,4.63636363636364,32,Female,Strong Democrat,Unemployed,High School / GED,White/Caucasian
+313,Experimental group: asked to donate but refused in T2,3.81818181818182,4.18181818181818,45,Male,Strong Democrat,Unemployed,4-year College Degree,White/Caucasian
+317,Experimental group: asked to donate but refused in T2,3.13636363636364,3.09090909090909,34,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+318,Experimental group: asked to donate and accepted in T2,4.04545454545455,3.36363636363636,46,Male,Strong Republican,Other,High School / GED,White/Caucasian
+323,Experimental group: asked to donate and accepted in T2,3,3.09090909090909,70,Female,Independent,Retired,High School / GED,White/Caucasian
+326,Experimental group: asked to donate but refused in T2,3.22727272727273,4,36,Male,Moderate Democrat,Other,Doctoral Degree,White/Caucasian
+327,Experimental group: asked to donate and accepted in T2,3.27272727272727,1.90909090909091,30,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+330,Experimental group: asked to donate and accepted in T2,2.77272727272727,2.90909090909091,30,Male,Moderate Democrat,"Construction, extraction, and maintenance occupations",High School / GED,White/Caucasian
+331,Experimental group: asked to donate but refused in T2,3,5,29,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+332,Experimental group: asked to donate and accepted in T2,3.31818181818182,3,34,Male,Strong Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+338,Experimental group: asked to donate but refused in T2,3.81818181818182,1.54545454545455,32,Female,Moderate Republican,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+339,Experimental group: asked to donate and accepted in T2,4,3.54545454545455,51,Female,Strong Democrat,Sales and office occupations,2-year College Degree,White/Caucasian
+341,Experimental group: asked to donate but refused in T2,3.22727272727273,3,25,Male,Strong Democrat,Government occupations,4-year College Degree,White/Caucasian
+349,Experimental group: asked to donate and accepted in T2,3.63636363636364,2.90909090909091,41,Female,Independent,Sales and office occupations,2-year College Degree,White/Caucasian
+352,Experimental group: asked to donate but refused in T2,3.27272727272727,1.18181818181818,28,Male,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+359,Experimental group: asked to donate but refused in T2,2.40909090909091,4.81818181818182,50,Female,Moderate Republican,Other,High School / GED,White/Caucasian
+361,Experimental group: asked to donate but refused in T2,3.36363636363636,3.27272727272727,54,Male,Moderate Republican,Government occupations,Master's Degree,White/Caucasian
+362,Experimental group: asked to donate but refused in T2,3.59090909090909,3.18181818181818,19,Male,Strong Democrat,Student,High School / GED,White/Caucasian
+363,Experimental group: asked to donate but refused in T2,3.45454545454545,4.36363636363636,27,Male,Moderate Republican,"Construction, extraction, and maintenance occupations",4-year College Degree,White/Caucasian
+364,Experimental group: asked to donate but refused in T2,2.54545454545455,1.72727272727273,52,Male,Strong Democrat,Other,High School / GED,Asian
+366,Experimental group: asked to donate but refused in T2,3.45454545454545,3.63636363636364,36,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+367,Experimental group: asked to donate but refused in T2,3,3.18181818181818,32,Male,Strong Republican,"Management, professional, and related occupations",High School / GED,White/Caucasian
+370,Experimental group: asked to donate but refused in T2,3.18181818181818,4.63636363636364,32,Male,Moderate Republican,"Production, transportation, and material moving occupations",High School / GED,White/Caucasian
+374,Experimental group: asked to donate but refused in T2,3,2.54545454545455,30,Female,Independent,Other,High School / GED,White/Caucasian
+380,Experimental group: asked to donate but refused in T2,2.81818181818182,3,34,Female,Independent,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+381,Experimental group: asked to donate and accepted in T2,3.13636363636364,3,54,Male,Moderate Democrat,Service occupations,Master's Degree,White/Caucasian
+382,Experimental group: asked to donate but refused in T2,3.59090909090909,3,23,Female,Strong Democrat,Unemployed,High School / GED,Hispanic
+383,Experimental group: asked to donate and accepted in T2,4.81818181818182,5,28,Gender variant,Strong Democrat,Other,High School / GED,White/Caucasian
+384,Experimental group: asked to donate but refused in T2,3.27272727272727,4.09090909090909,26,Male,Moderate Republican,Sales and office occupations,2-year College Degree,White/Caucasian
+385,Experimental group: asked to donate but refused in T2,3.22727272727273,3.09090909090909,34,Male,Strong Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+387,Experimental group: asked to donate but refused in T2,3.5,4.09090909090909,22,Female,Independent,Sales and office occupations,High School / GED,Other
+391,Experimental group: asked to donate but refused in T2,3.27272727272727,3.36363636363636,29,Male,Strong Democrat,Service occupations,High School / GED,Asian
+394,Experimental group: asked to donate but refused in T2,2.81818181818182,4.81818181818182,44,Female,Moderate Republican,Service occupations,2-year College Degree,White/Caucasian
+395,Experimental group: asked to donate and accepted in T2,3.72727272727273,3.27272727272727,31,Female,Moderate Democrat,Unemployed,4-year College Degree,Asian
+397,Experimental group: asked to donate and accepted in T2,3.68181818181818,3.72727272727273,47,Female,Moderate Democrat,Service occupations,4-year College Degree,Asian
+404,Experimental group: asked to donate but refused in T2,2.90909090909091,2.63636363636364,31,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+405,Experimental group: asked to donate but refused in T2,2.81818181818182,4.36363636363636,34,Male,Strong Republican,Government occupations,Master's Degree,White/Caucasian
+410,Experimental group: asked to donate and accepted in T2,3.72727272727273,3.09090909090909,30,Male,Strong Democrat,"Management, professional, and related occupations","Professional Degree (JD, MD)",Asian
+412,Experimental group: asked to donate but refused in T2,3.54545454545455,3.45454545454545,33,Female,Moderate Democrat,Service occupations,4-year College Degree,White/Caucasian
+415,Experimental group: asked to donate and accepted in T2,4.68181818181818,5,33,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+420,Experimental group: asked to donate but refused in T2,2.95454545454545,2.36363636363636,38,Female,Moderate Democrat,Sales and office occupations,4-year College Degree,Asian
+423,Experimental group: asked to donate and accepted in T2,4,4.72727272727273,60,Female,Strong Democrat,Sales and office occupations,2-year College Degree,African American
+425,Experimental group: asked to donate and accepted in T2,3.59090909090909,3.72727272727273,61,Male,Moderate Republican,Other,4-year College Degree,White/Caucasian
+428,Experimental group: asked to donate and accepted in T2,4.27272727272727,2.54545454545455,38,Female,Independent,Sales and office occupations,High School / GED,White/Caucasian
+430,Experimental group: asked to donate but refused in T2,2.86363636363636,2.72727272727273,53,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+432,Experimental group: asked to donate but refused in T2,3.22727272727273,3.18181818181818,55,Female,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+438,Experimental group: asked to donate but refused in T2,3.59090909090909,4.81818181818182,42,Female,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+441,Experimental group: asked to donate but refused in T2,2.72727272727273,3,54,Female,Moderate Democrat,Service occupations,High School / GED,White/Caucasian
+444,Experimental group: asked to donate but refused in T2,3.68181818181818,4.54545454545455,35,Female,Moderate Republican,Unemployed,2-year College Degree,White/Caucasian
+445,Experimental group: asked to donate and accepted in T2,3.72727272727273,4,35,Male,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+446,Experimental group: asked to donate and accepted in T2,3.45454545454545,4.18181818181818,54,Female,Moderate Democrat,Sales and office occupations,Master's Degree,White/Caucasian
+448,Experimental group: asked to donate but refused in T2,2.95454545454545,2.81818181818182,38,Male,Moderate Republican,"Construction, extraction, and maintenance occupations",2-year College Degree,White/Caucasian
+449,Experimental group: asked to donate but refused in T2,3.40909090909091,2.90909090909091,33,Male,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+450,Experimental group: asked to donate and accepted in T2,4.04545454545455,3.54545454545455,54,Female,Moderate Republican,Other,High School / GED,White/Caucasian
+452,Experimental group: asked to donate and accepted in T2,3.18181818181818,3.63636363636364,57,Female,Independent,Other,High School / GED,White/Caucasian
+456,Experimental group: asked to donate but refused in T2,3.45454545454545,4.18181818181818,55,Female,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+458,Experimental group: asked to donate but refused in T2,3.86363636363636,2.09090909090909,23,Male,Moderate Democrat,Service occupations,2-year College Degree,White/Caucasian
+460,Experimental group: asked to donate and accepted in T2,3.45454545454545,1.72727272727273,42,Female,Moderate Republican,Unemployed,High School / GED,White/Caucasian
+466,Experimental group: asked to donate and accepted in T2,3.31818181818182,4.54545454545455,61,Female,Independent,Other,2-year College Degree,White/Caucasian
+467,Experimental group: asked to donate but refused in T2,2.81818181818182,2.27272727272727,51,Male,Other,Service occupations,2-year College Degree,African American
+469,Experimental group: asked to donate but refused in T2,3.54545454545455,3.18181818181818,40,Male,Independent,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+470,Experimental group: asked to donate and accepted in T2,2.95454545454545,3.45454545454545,27,Male,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+471,Experimental group: asked to donate but refused in T2,2.95454545454545,5,29,Female,Moderate Democrat,Unemployed,High School / GED,African American
+474,Experimental group: asked to donate and accepted in T2,3.68181818181818,2.81818181818182,44,Female,Moderate Republican,Other,2-year College Degree,White/Caucasian
+476,Experimental group: asked to donate and accepted in T2,4.45454545454545,3.63636363636364,46,Female,Moderate Republican,Other,High School / GED,White/Caucasian
+477,Experimental group: asked to donate and accepted in T2,4.22727272727273,3.36363636363636,28,Female,Independent,Sales and office occupations,High School / GED,African American
+479,Experimental group: asked to donate but refused in T2,3.54545454545455,4.63636363636364,33,Male,Other,Sales and office occupations,4-year College Degree,Hispanic
+481,Experimental group: asked to donate and accepted in T2,4.54545454545455,2.72727272727273,28,Male,Moderate Democrat,Service occupations,2-year College Degree,Hispanic
+482,Experimental group: asked to donate and accepted in T2,4.63636363636364,5,38,Female,Strong Republican,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+486,Experimental group: asked to donate and accepted in T2,3.54545454545455,1.81818181818182,36,Female,Independent,Government occupations,4-year College Degree,Asian
+487,Experimental group: asked to donate but refused in T2,3.40909090909091,2.81818181818182,45,Male,Moderate Republican,Service occupations,4-year College Degree,White/Caucasian
+488,Experimental group: asked to donate and accepted in T2,3.27272727272727,4.63636363636364,31,Female,Independent,"Farming, fishing, and forestry",4-year College Degree,White/Caucasian
+491,Experimental group: asked to donate but refused in T2,3.77272727272727,2.54545454545455,47,Female,Moderate Republican,Sales and office occupations,High School / GED,White/Caucasian
+500,Experimental group: asked to donate but refused in T2,2.77272727272727,2.54545454545455,34,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+501,Experimental group: asked to donate but refused in T2,3.18181818181818,2.81818181818182,65,Female,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+502,Experimental group: asked to donate and accepted in T2,3.72727272727273,2.63636363636364,26,Male,Moderate Democrat,"Management, professional, and related occupations","Professional Degree (JD, MD)",African American
+503,Experimental group: asked to donate but refused in T2,3.13636363636364,4.45454545454545,35,Male,Moderate Republican,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+507,Experimental group: asked to donate but refused in T2,3.54545454545455,1.54545454545455,44,Female,Moderate Democrat,Sales and office occupations,High School / GED,White/Caucasian
+508,Experimental group: asked to donate and accepted in T2,3.68181818181818,2.81818181818182,29,Female,Moderate Republican,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+509,Experimental group: asked to donate but refused in T2,3.54545454545455,3.54545454545455,46,Male,Independent,Other,4-year College Degree,White/Caucasian
+510,Experimental group: asked to donate but refused in T2,1.54545454545455,3.36363636363636,47,Female,Moderate Republican,"Management, professional, and related occupations",2-year College Degree,White/Caucasian
+515,Experimental group: asked to donate but refused in T2,2.90909090909091,3.45454545454545,52,Female,Strong Democrat,Service occupations,4-year College Degree,White/Caucasian
+518,Experimental group: asked to donate but refused in T2,3.86363636363636,2.63636363636364,25,Female,Moderate Democrat,Service occupations,High School / GED,White/Caucasian
+520,Experimental group: asked to donate but refused in T2,3.36363636363636,2.36363636363636,38,Female,Independent,Unemployed,High School / GED,African American
+523,Experimental group: asked to donate but refused in T2,3.81818181818182,2.09090909090909,27,Male,Strong Democrat,Unemployed,High School / GED,White/Caucasian
+526,Experimental group: asked to donate but refused in T2,2.5,2.54545454545455,31,Male,Moderate Republican,"Construction, extraction, and maintenance occupations",High School / GED,White/Caucasian
+527,Experimental group: asked to donate and accepted in T2,2.31818181818182,2.09090909090909,58,Female,Strong Republican,Unemployed,High School / GED,White/Caucasian
+529,Experimental group: asked to donate but refused in T2,2.36363636363636,1.81818181818182,29,Male,Moderate Democrat,Sales and office occupations,4-year College Degree,African American
+537,Experimental group: asked to donate but refused in T2,3.5,2.18181818181818,38,Male,Strong Democrat,Sales and office occupations,4-year College Degree,White/Caucasian
+542,Experimental group: asked to donate but refused in T2,1.77272727272727,3.90909090909091,34,Male,Moderate Democrat,"Management, professional, and related occupations",High School / GED,African American
+543,Experimental group: asked to donate but refused in T2,3.40909090909091,2.36363636363636,30,Female,Moderate Democrat,Service occupations,4-year College Degree,White/Caucasian
+544,Experimental group: asked to donate but refused in T2,4.09090909090909,4.54545454545455,34,Male,Moderate Democrat,Service occupations,High School / GED,Asian
+545,Experimental group: asked to donate but refused in T2,3.54545454545455,3.54545454545455,46,Female,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+546,Experimental group: asked to donate but refused in T2,3.04545454545455,2.63636363636364,22,Male,Moderate Republican,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+547,Experimental group: asked to donate and accepted in T2,4.31818181818182,3.81818181818182,33,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+549,Experimental group: asked to donate but refused in T2,2.95454545454545,2.54545454545455,33,Female,Strong Republican,Unemployed,High School / GED,White/Caucasian
+550,Experimental group: asked to donate and accepted in T2,3.27272727272727,5,56,Female,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+552,Experimental group: asked to donate but refused in T2,3.90909090909091,2.45454545454545,67,Female,Strong Democrat,Retired,High School / GED,White/Caucasian
+553,Experimental group: asked to donate but refused in T2,3.13636363636364,2.72727272727273,33,Male,Moderate Democrat,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+556,Experimental group: asked to donate but refused in T2,2.90909090909091,2.36363636363636,27,Female,Independent,Sales and office occupations,4-year College Degree,White/Caucasian
+557,Experimental group: asked to donate but refused in T2,3.31818181818182,2.27272727272727,38,Male,Independent,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+558,Experimental group: asked to donate but refused in T2,1.77272727272727,2,38,Male,Independent,Government occupations,High School / GED,White/Caucasian
+559,Experimental group: asked to donate and accepted in T2,3.81818181818182,4.27272727272727,49,Female,Strong Republican,Other,High School / GED,White/Caucasian
+560,Experimental group: asked to donate but refused in T2,3.54545454545455,2.18181818181818,37,Female,Strong Republican,Service occupations,Master's Degree,White/Caucasian
+564,Experimental group: asked to donate but refused in T2,3.31818181818182,1.72727272727273,32,Female,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+565,Experimental group: asked to donate but refused in T2,3.54545454545455,1.81818181818182,35,Female,Strong Democrat,Other,Master's Degree,Asian
+566,Experimental group: asked to donate but refused in T2,2.81818181818182,2,32,Female,Strong Democrat,"Management, professional, and related occupations",Master's Degree,White/Caucasian
+572,Experimental group: asked to donate but refused in T2,3.90909090909091,3.63636363636364,33,Male,Independent,"Management, professional, and related occupations",4-year College Degree,White/Caucasian
+580,Experimental group: asked to donate and accepted in T2,3.72727272727273,1.09090909090909,34,Male,Independent,Unemployed,2-year College Degree,White/Caucasian
+582,Experimental group: asked to donate and accepted in T2,3.59090909090909,1.90909090909091,56,Female,Moderate Democrat,Other,High School / GED,White/Caucasian
+587,Experimental group: asked to donate and accepted in T2,3.95454545454545,4.36363636363636,39,Female,Independent,Service occupations,High School / GED,White/Caucasian
+594,Experimental group: asked to donate but refused in T2,2.72727272727273,1.72727272727273,39,Male,Independent,Sales and office occupations,High School / GED,White/Caucasian
+596,Experimental group: asked to donate and accepted in T2,3.54545454545455,3.36363636363636,50,Male,Moderate Democrat,"Construction, extraction, and maintenance occupations",2-year College Degree,White/Caucasian
+599,Experimental group: asked to donate and accepted in T2,4.54545454545455,4.72727272727273,35,Female,Moderate Democrat,"Management, professional, and related occupations",Master's Degree,Asian
+600,Experimental group: asked to donate but refused in T2,2.90909090909091,2.45454545454545,27,Male,Moderate Republican,Service occupations,High School / GED,Other
+601,Experimental group: asked to donate and accepted in T2,3.68181818181818,4.63636363636364,31,Female,Independent,"Management, professional, and related occupations",4-year College Degree,Asian
+602,Experimental group: asked to donate but refused in T2,4,3.09090909090909,38,Female,Independent,Government occupations,4-year College Degree,White/Caucasian
+604,Experimental group: asked to donate but refused in T2,3.45454545454545,3.90909090909091,24,Male,Strong Democrat,Service occupations,4-year College Degree,Asian
